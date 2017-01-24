@@ -79,7 +79,7 @@
             this.MinimizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "PROBAUG - File Reader Tool";
+            this.Text = "File Reader Tool";
             this.ResumeLayout(false);
             this.PerformLayout();
 
