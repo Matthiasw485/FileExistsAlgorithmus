@@ -35,7 +35,7 @@ namespace FileExistsAlgorithmus
                 counter++;
             }
             file.Close();
-            MessageBox.Show("Die Analyse ist vollständig...", "Fertig");
+            MessageBox.Show("Analyse abgeschlossen." + " Die Ergebnisse wurden in eine Datei mit folgendem Pfad geschrieben: '" + textBox1.Text + "'" +, "Fertig");
         }
 
         private void button2_Click(object sender, EventArgs e)
